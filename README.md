@@ -16,7 +16,6 @@
 
 ## **Tech Stacks 🛠️**
 
-<div align="center">
 
 ## **Front-end**
 <img width="600"  alt="스크린샷 2023-12-21 오후 5 45 41" src="https://github.com/Kimminwoo02/catalogs/assets/71600656/35bbc1c3-85c9-4a28-ba49-d00477218f8e">
@@ -35,7 +34,7 @@
 ## **COMMON**
 <img width="600" alt="스크린샷 2023-12-21 오후 5 46 14" src="https://github.com/Kimminwoo02/catalogs/assets/71600656/18cf0665-9e6b-4881-8435-ca8f16244a2b">
 
-</div>
+
 
 
 ## 팀원 👨‍👩‍👧‍👦👨‍👩‍👦
