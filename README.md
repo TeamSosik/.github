@@ -1,11 +1,7 @@
-<div align="center">
+
 <img width="742" alt="sosikLogo" src="https://github.com/Kimminwoo02/catalogs/assets/71600656/492371c9-a7a1-4d4b-983f-ac5d1ca19e72">
 
 
-
-
-
-</div>
 
 ## **소개**
 매일 효율적인 식단구성을 고민하는 사람들에게 칼로리를 추적할 수 있도록 도와주는 서비스입니다. 각종 음식들의 칼로리 및 영양성분을 확인 및 기록하여 최적화된 식단을 구성하세요!
