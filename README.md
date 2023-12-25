@@ -53,5 +53,9 @@
 <br>
 
 ## **팀 그라운드룰 🎯**
+<div align="center">
+
 ![image](https://github.com/Kimminwoo02/catalogs/assets/71600656/71a0e713-15ad-44d2-b39a-1b03e257d283)
+
+</div>
 
