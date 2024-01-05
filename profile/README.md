@@ -53,6 +53,8 @@
 </div>
 
 
+## 팀 문서
+https://www.notion.so/Final-Project-Sosik-cbd8fd255aca4958b49059cbbfba29eb
 
 
 ## **팀 문화 🌱**
