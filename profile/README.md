@@ -53,7 +53,8 @@
 </div>
 
 
-## 결과물 : http://so-sik.com (운영종료)
+## 결과물  
+# http://so-sik.com (운영종료)
 
 ## 팀 문서
 https://www.notion.so/Final-Project-Sosik-cbd8fd255aca4958b49059cbbfba29eb
